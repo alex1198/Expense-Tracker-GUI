@@ -2,6 +2,7 @@ Simple expense tracker built with Python and Tkinter that allows you to add, vie
 This project is aimed at intermediate developers looking to improve their skills in GUI development, database management (using SQLite), and Python programming.
 
 Features:-
+
 	• Add Expenses: Input expense details such as amount, category, description, and date through a user-friendly GUI.
 	• View Expenses: Display all recorded expenses in a Listbox with clear details including ID, amount, category, description, and date.
 	• Delete Expenses: Select and delete an expense entry from the list.
